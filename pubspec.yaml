@@ -30,11 +30,12 @@ dependencies:
   firebase_database: ^4.3.0
   firebase_messaging: ^7.0.3
   firebase_storage: ^5.1.0
+  flutter_auth_buttons: ^0.10.0
   flutter_facebook_login: ^3.0.0
   fluttertoast: ^7.1.5
   google_sign_in: ^4.5.4
+  pinput: ^0.2.6
   shared_preferences: ^0.5.12+4
-  flutter_auth_buttons: ^0.10.0
 
 dev_dependencies:
   flutter_test:
